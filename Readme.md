@@ -17,3 +17,6 @@ This is a backend sereies project.
 ```
 requrie('crypto').randomBytes(64).toString('hex')
 ```
+
+### Multer + Cloudinary file upload
+![alt text](image-2.png)
