@@ -22,6 +22,6 @@ requrie('crypto').randomBytes(64).toString('hex')
 
 ![alt text](screenshots/image-2.png)
 
-### how access Token and refresh token works
+### How access Token and refresh token works
 
 ![alt text](screenshots/image-4.png)
