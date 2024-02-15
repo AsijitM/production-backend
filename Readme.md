@@ -6,11 +6,11 @@ This is a backend sereies project.
 
 ### Middlewares
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 ### mongoose Pre hook
 
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
 
 ### generation of jwt secret
 
@@ -20,8 +20,8 @@ requrie('crypto').randomBytes(64).toString('hex')
 
 ### Multer + Cloudinary file upload
 
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 
 ### how access Token and refresh token works
 
-![alt text](image-4.png)
+![alt text](screenshots/image-4.png)
