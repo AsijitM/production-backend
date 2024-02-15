@@ -19,4 +19,9 @@ requrie('crypto').randomBytes(64).toString('hex')
 ```
 
 ### Multer + Cloudinary file upload
+
 ![alt text](image-2.png)
+
+### how access Token and refresh token works
+
+![alt text](image-4.png)
